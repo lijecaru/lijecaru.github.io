@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Linda Capito"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am a Ph.D. candidate in Electrical and Computer Engineering at The Ohio State University. My research focuses on developing innovative risk assessment techniques for automated-driving assistance systems (ADAS) to identify potential system and environmental configurations that could lead to collisions and other vehicular hazards. I have worked on a broad range of topics, including risk assessment, safety validation and verification of autonomous systems, computer vision, reinforcement learning, and control theory."
+  location         : "Columbus, OH"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ERGefBAAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "lijecaru"
   vine             :
   weibo            :
   xing             :
