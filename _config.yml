@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : 
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Linda Capito"
-  avatar           : "profile.png"
-  bio              : "I am a Ph.D. candidate in Electrical and Computer Engineering at The Ohio State University. My research focuses on developing innovative risk assessment techniques for automated-driving assistance systems (ADAS) to identify potential system and environmental configurations that could lead to collisions and other vehicular hazards. I have worked on a broad range of topics, including risk assessment, safety validation and verification of autonomous systems, computer vision, reinforcement learning, and control theory."
+  avatar           : "profile_2.jpg"
+  bio              : "Ph.D. Candidate in Electrical and Computer Engineering. Interested in autonomous vehicles, safety testing and software development."
   location         : "Columbus, OH"
   employer         :
   pubmed           : 
