@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate at the [Control and Intelligent Transportation Lab](https://citr.osu.edu/) at the [Ohio State University](https://www.osu.edu/), [Department of Electrical and Computer Engineering](https://ece.osu.edu/) where I also received my M.S. degree. I have a Bachelor's in Electronics Engineering and Control from [Escuela Politecnica Nacional](https://www.epn.edu.ec/) in Quito, Ecuador.
 
-A data-driven personal website
+My research focuses on developing innovative risk assessment techniques for automated-driving assistance systems (ADAS) to identify potential system and environmental configurations that could lead to collisions and other vehicular hazards. I have published research encompassing a broad range of topics, including risk assessment, safety validation and verification of autonomous systems, computer vision, reinforcement learning, and control theory. 
+
+I was a Fulbright Fellow from 2017 to 2019 and have recently received the distinguised Presidential Fellowship at the Ohio State University.
+
+Projects
+======
+
+
+
+<!-- Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+
+Service and leadership
+======
+* STEM eMentor at [TryEngineering powered by IEEE](https://cricketmedia.com/tryengineeringtogether/)
+* GUIDE Peer mentor at the [OSU College of Engineering](https://engineering.osu.edu/graduate/graduate-students/mentoring-program)
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +73,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
