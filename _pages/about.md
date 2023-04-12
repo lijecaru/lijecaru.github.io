@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the [Control and Intelligent Transportation Lab](https://citr.osu.edu/) at the [Ohio State University](https://www.osu.edu/), [Department of Electrical and Computer Engineering](https://ece.osu.edu/) where I also received my M.S. degree. I have a Bachelor's in Electronics Engineering and Control from [Escuela Politecnica Nacional](https://www.epn.edu.ec/) in Quito, Ecuador.
+I am a Ph.D. candidate at the [Control and Intelligent Transportation Lab](https://citr.osu.edu/) at the [Ohio State University](https://www.osu.edu/), [Department of Electrical and Computer Engineering](https://ece.osu.edu/) under the supervision of [Prof. Keith Redmill](http://www2.ece.ohio-state.edu/~redmill/). I have a Bachelor's in Electronics Engineering and Control from [Escuela Politecnica Nacional](https://www.epn.edu.ec/) in Quito, Ecuador.
+
+I was a [Fulbright Fellow](https://eca.state.gov/fulbright/about-fulbright/fulbright-program-overview) from 2017 to 2019 and have recently received the [Presidential Fellowship](https://gradsch.osu.edu/presidential-fellowship) at the Ohio State University.
+
+Research
+======
 
 My research focuses on developing innovative risk assessment techniques for automated-driving assistance systems (ADAS) to identify potential system and environmental configurations that could lead to collisions and other vehicular hazards. I have published research encompassing a broad range of topics, including risk assessment, safety validation and verification of autonomous systems, computer vision, reinforcement learning, and control theory. 
 
-I was a Fulbright Fellow from 2017 to 2019 and have recently received the distinguised Presidential Fellowship at the Ohio State University.
 
-Projects
-======
+
+<!-- Projects
+====== -->
 
 
 
