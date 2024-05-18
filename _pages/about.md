@@ -7,16 +7,61 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I work as a Research Scientist at the [Transportation Research Center Inc.](https://www.trcpg.com/) where I conduct research related to vehicle safety, focused on Automated Driving Systems (ADS) and Advanced Driver Assistance Systems (ADAS).
 
-I am a Ph.D. candidate at the [Control and Intelligent Transportation Lab](https://citr.osu.edu/) at the [Ohio State University](https://www.osu.edu/), [Department of Electrical and Computer Engineering](https://ece.osu.edu/) under the supervision of [Prof. Keith Redmill](http://www2.ece.ohio-state.edu/~redmill/). I have a Bachelor's in Electronics Engineering and Control from [Escuela Politecnica Nacional](https://www.epn.edu.ec/) in Quito, Ecuador.
+In the past, I have interned at [Motional](https://motional.com/), where I developed automation solutions for mitigation analysis on vehicle safety issues; [Oztech Inc.](https://www.oztinc.com/), where I worked on risk assessment analysis for ADS; and [Takeda Lab](https://takedalab.g.sp.m.is.nagoya-u.ac.jp/home) at [Nagoya University](https://en.nagoya-u.ac.jp/), where I worked on creation of digital twins and reinforcement learning implementations for autonomous driving.  
 
-I was a [Fulbright Fellow](https://eca.state.gov/fulbright/about-fulbright/fulbright-program-overview) from 2017 to 2019 and have recently received the [Presidential Fellowship](https://gradsch.osu.edu/presidential-fellowship) at the Ohio State University.
+I received my Ph.D. degree in Electrical and Computer Engineering from the [Ohio State University](https://www.osu.edu/), [Department of Electrical and Computer Engineering](https://ece.osu.edu/) in 2023. I worked under the supervision of [Prof. Keith Redmill](http://www2.ece.ohio-state.edu/~redmill/) and [Prof. Umit Ozguner](https://citr.osu.edu/CrIS/Umit_Ozguner.html) and was part of the [Control and Intelligent Transportation Lab](https://citr.osu.edu/). My research focused on proposing testing methods for evaluation of ADS, including adversarial behavior generation, formal methods and dynamic probabilistic risk assessment. 
+
+Previously, I received a Bachelor's degree in Electronics Engineering and Control from [Escuela Politecnica Nacional](https://www.epn.edu.ec/) in Quito, Ecuador.
+
+I was a [Fulbright Fellow](https://eca.state.gov/fulbright/about-fulbright/fulbright-program-overview) from 2017 to 2019, received the [Presidential Fellowship](https://gradsch.osu.edu/presidential-fellowship) at the Ohio State University for my dissertation year 2023.
 
 Research
 ======
 
 My research focuses on developing innovative risk assessment techniques for automated-driving assistance systems (ADAS) to identify potential system and environmental configurations that could lead to collisions and other vehicular hazards. I have published research encompassing a broad range of topics, including risk assessment, safety validation and verification of autonomous systems, computer vision, reinforcement learning, and control theory. 
 
+News
+======
+
+Organizing workshop ITSC
+
+**April 2024** Gave an invited talk titled "Model-based falsification and safety evaluation of autonomous systems" at the [SIVALab](https://www.hds.utc.fr/collaborations/laboratoire-commun-sivalab/) Seminar Q1/Q2.
+
+**October 2023** Presented [paper](https://ieeexplore.ieee.org/abstract/document/10328069) "On the Validation of Adversarial Threats to Cooperative Unmanned Aerial Systems for Search and Rescue Missions" at the [IEEE International Automated Vehicle Validation Conference 2023](https://2023.iavvc.org/) in Austin, Texas.
+
+**September 2023** Co-organized the [3rd Workshop on Safety Testing and Validation of Connected and Automated Vehicles](https://2023.ieee-itsc.org/wp-content/uploads/2023/03/11-Bowen-Chen-IEEE-ITSC-2023-Workshop-Proposal-Safety_Testing_and_Validation_of_Connected_and_Automated_Vehicles.pdf) at [IEEE ITSC 2023](https://2023.ieee-itsc.org/) in Bilbao, Spain.
+
+**August 2023** Graduated from [OSU](https://www.osu.edu/) and started my new job at the [Transportation Research Center Inc.](https://www.trcpg.com/).
+
+**June 2023** My work was [covered](https://car.osu.edu/news/2023/06/carmen-project-adds-new-dimension-capitos-phd-research) as part of the [CARMEN Project](https://utc.engineering.osu.edu/).
+
+**May 2023** Was invited to participate in a [video](https://www.youtube.com/watch?v=5B6X8Og1OOE&ab_channel=EducationUSA) produced by [EducationUSA](https://educationusa.state.gov/), where I shared my experiences as an international STEM student in the USA.
+
+**March 2023** Our [chapter](https://www.degruyter.com/document/doi/10.1515/9783110981223-005/pdf?licenseType=restricted) "Risk analysis for vehicle-pedestrian interaction with extended sensing" was published in the [book](https://www.degruyter.com/document/doi/10.1515/9783110981223/html) *Towards Human-Vehicle Harmonization*.
+
+**April 2022** Our [paper](https://ieeexplore.ieee.org/abstract/document/9756919) "A finite-sampling, operational domain specific, and provably unbiased connected and automated vehicle safety metric" was published in *IEEE Transactions on Intelligent Transportation Systems*.
+
+**March 2022** Our [paper](https://ieeexplore.ieee.org/abstract/document/9745149) "Data-Driven Risk-Sensitive Control for Personalized Lane Change Maneuvers" was published in *IEEE Access*.
+
+**November 2021** Presented [paper](https://www.researchgate.net/profile/Linda-Capito/publication/363903178_Model-based_decomposition_and_Backtracking_Framework_for_Probabilistic_Risk_Assessment_in_Automated_Vehicle_Systems/links/63345c3eff870c55cee35ffe/Model-based-decomposition-and-Backtracking-Framework-for-Probabilistic-Risk-Assessment-in-Automated-Vehicle-Systems.pdf) "Model-Based Decomposition and Backtracking Framework for Probabilistic Risk Assessment in Automated Vehicle Systems" at the [2021 International Topical Meeting on Probabilistic Safety Assessment and Analysis (PSA 2021)](https://www.ans.org/meetings/psa2021/).
+
+**October 2021** Our [paper](https://ieeexplore.ieee.org/abstract/document/9594685) "A formal characterization of black-box system safety performance with scenario sampling" was published in *IEEE Robotics and Automation Letters*.
+
+**October 2021** Our [paper](https://ieeexplore.ieee.org/abstract/document/9556594) "Towards Guaranteed Safety Assurance of Automated Driving Systems With Scenario Sampling: An Invariant Set Perspective" was published in *IEEE Transactions on Intelligent Vehicles*.
+
+**September 2021** Presented [paper](https://ieeexplore.ieee.org/abstract/document/9564820) "Methodology for Hazard Identification and Mitigation Strategies Applied to an Overtaking Assistant ADAS" at the [2021 IEEE Intelligent Transportation Systems Conference](https://ieee-itsc.org/2021/index.html).
+
+**May 2021** Presented [paper](https://ieeexplore.ieee.org/abstract/document/9482763) "A modeled approach for online adversarial test of operational vehicle safety" at the [2021 American Control Conference (ACC)](https://acc2021.a2c2.org/index.html#:~:text=The%202021%20American%20Control%20Conference,Eastern%20Daylight%20Time%20(EDT).&text=We%20will%20continue%20to%20hosting,and%20technical%20sessions%20in%20Spatial).
+
+**January 2021** Presented poster "A model-based validation framework for safety evaluation of autonomous systems" at the [2021 TRB Annual Meeting](https://trb-annual-meeting.nationalacademies.org/).
+
+**October 2020** Presented [paper](https://ieeexplore.ieee.org/abstract/document/9304777) "Optical flow based visual potential field for autonomous driving" at the [2020 IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/).
+
+**October 2020** Presented [paper](https://ieeexplore.ieee.org/abstract/document/9304735) "Integrating deep reinforcement learning with model-based path planners for automated driving" at the [2020 IEEE Intelligent Vehicles Symposium (IV)](https://ieee-iv.org/).
+
+**August 2019** Started my Ph.D. at [OSU](https://www.osu.edu/)!
 
 
 <!-- Projects
