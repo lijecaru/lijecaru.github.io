@@ -25,8 +25,6 @@ My research focuses on developing innovative risk assessment techniques for auto
 News
 ======
 
-Organizing workshop ITSC
-
 **April 2024** Gave an invited talk titled "Model-based falsification and safety evaluation of autonomous systems" at the [SIVALab](https://www.hds.utc.fr/collaborations/laboratoire-commun-sivalab/) Seminar Q1/Q2.
 
 **October 2023** Presented [paper](https://ieeexplore.ieee.org/abstract/document/10328069) "On the Validation of Adversarial Threats to Cooperative Unmanned Aerial Systems for Search and Rescue Missions" at the [IEEE International Automated Vehicle Validation Conference 2023](https://2023.iavvc.org/) in Austin, Texas.
