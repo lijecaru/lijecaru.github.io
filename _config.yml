@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Linda J. Capito"
+description              : &description "Linda J. Capito. Autonomous systems researcher and engineer. Risk assessment, safety validation, and ML for automated driving."
 url                      : https://lijecaru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijecaru/lijecaru.github.io"
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linda Capito"
+  name             : "Linda J. Capito"
   avatar           : "profile_2.jpg"
-  bio              : "Ph.D. in Electrical and Computer Engineering. Interested in autonomous vehicles, safety testing and software development."
-  location         : "Columbus, OH"
-  employer         :
-  pubmed           : 
+  bio              : "Research Scientist at TRC Inc. Ph.D. in ECE, The Ohio State University. I work on safety validation, risk estimation, and ML for automated driving systems. Fulbright Scholar."
+  location         : "Austin, TX"
+  employer         : "Transportation Research Center Inc."
+  employer_url     : "https://www.trcpg.com/"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ERGefBAAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
