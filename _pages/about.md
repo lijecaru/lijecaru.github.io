@@ -6,7 +6,7 @@ subtitle: Autonomous systems researcher. Safety validation, risk estimation, and
 
 profile:
   align: right
-  image: profile_2.jpg
+  image: rsz_headshot_2021.jpg
   image_circular: true
   more_info: >
     <p>Austin, TX</p>
