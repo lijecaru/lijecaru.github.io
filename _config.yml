@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : 
 title_separator          : "-"
-name                     : &name "Linda J. Capito"
-description              : &description "Linda J. Capito. Autonomous systems researcher and engineer. Risk assessment, safety validation, and ML for automated driving."
+name                     : &name "Linda Capito"
+description              : &description "Linda Capito. Autonomous systems researcher and engineer. Risk assessment, safety validation, and ML for automated driving."
 url                      : https://lijecaru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lijecaru/lijecaru.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Linda J. Capito"
+  name             : "Linda Capito"
   avatar           : "profile_2.jpg"
   bio              : "Research Scientist at TRC Inc. Ph.D. in ECE, The Ohio State University. I work on safety validation, risk estimation, and ML for automated driving systems. Fulbright Scholar."
   location         : "Austin, TX"
